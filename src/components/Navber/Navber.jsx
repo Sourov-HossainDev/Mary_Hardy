@@ -1,7 +1,6 @@
 import React from 'react'
 import mary from '../../assets/Images/Mary.png'
-import man from '../../assets/Images/man.png'
-import elips from '../../assets/Images/elips.png'
+
 
 const Navber = () => {
     return (
@@ -20,19 +19,7 @@ const Navber = () => {
                             <button className='py-[19px] px-[36px] bg-btnColor font-bold text-[20px] text-white  '>Hire Me</button>
                         </div>
                     </nav>
-                    <div className='flex'>
-                        <div className='1/2'>
-                            <h3>Hi, I  am</h3>
-                            <h1>Mary Hardy</h1>
-                            <p>Shot what able cold new see hold.Friendly as an betrayed formerly he. Morning because as to society behaved moments.</p>
-                        </div>
-                        <div className='1/2'>
-                            <div className='relative'>
-                                <img src={man} alt="" className='z-50' />
-                                <img src={elips} alt="" className='absolute top-[240px] right-0 z-40' />
-                            </div>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </>
