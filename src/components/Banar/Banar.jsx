@@ -10,7 +10,7 @@ const Banar = () => {
             <div className='bg-[#FFF8F3] pt-[51px] font-openSans '>
                 <div className='flex max-w-container mx-auto'>
                     <div className='1/2'>
-                        <h3 className='font-semibold text-[45px] text-[#474747] mt-[185px] '>Hi, I  am</h3>
+                        <h3 className='font-semibold text-[45px] text-[#474747] mt-[1] '>Hi, I  am</h3>
                         <h1 className='font-bold text-[85px] text-[#181818] '>Mary Hardy</h1>
                         <p className='text-[18px] text-[#757575] w-[585px] mt-[20px]  '>Shot what able cold new see hold.Friendly as an betrayed formerly he. Morning because as to society behaved moments.</p>
                         <div className='mt-[30px] flex '>
