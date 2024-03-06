@@ -14,6 +14,10 @@ export default {
       },
       colors :{
         btnColor : '#FD6E0A'
+      },
+      boxShadow: {
+        'cardShadow': '0px 6px 50px 0px rgba(0, 0, 0, 0.06)',
+         
       }
     },
   },
