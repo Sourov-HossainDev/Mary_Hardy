@@ -7,9 +7,9 @@ const Navber = () => {
         <>
             <div className='bg-[#FFF8F3] pt-[51px] font-openSans '>
                 <div className='max-w-container mx-auto'>
-                    <nav className='flex items-center '>
+                    <nav className='flex items-center  '>
                         <div className='w-1/2  '>
-                            <img src={mary} alt="" />
+                            <img src={mary} alt="" className='mt-[20px] ' />
                         </div>
                         <div className='w-1/2 flex justify-end items-center '>
                             <ul className='flex text-[20px] text-[#474747] mr-[51px] '>
